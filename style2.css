@@ -1,0 +1,25 @@
+p{
+    color: red;
+}
+
+h1{
+    color: rgba(255,0,0,0.1);
+}
+
+/*
+the boss said the background color of the website should always be white*/
+body{
+    background-color: white;
+}
+
+#FirstOne{
+    color: darkmagenta;
+}
+
+#SecondOne{
+    color: orange !important;
+}
+
+.bigbigtext{
+    font-size: 60px;
+}
